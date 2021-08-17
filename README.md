@@ -1,6 +1,8 @@
 ---
 # Conceptos aprendidos en el módulo 0
 ---
+### Enlace al repositorio: https://github.com/zazmage/Aprendiz-Geek-ejercicio-uno
+### Enlace al isue asociado: https://github.com/academia-geek/aprendices-geek-entrenamiento-zazmage/issues/1
 ### *Consideraciones*
 *Por motivos de practicidad solo se incluyeron descripciones básicas de cada concepto aprendido, no consideré pertinente hacer una
 descripción detallada de por ejemplo, todos y cada uno de los comandos Git o la sintaxis del Markdown.* 
